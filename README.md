@@ -1,7 +1,7 @@
 
 ## About
 
-This is the Fire Detection App created with custom trained models using YoloV5
+This is the Fire Detection App created with trained models using YoloV5
 ## Features
 
 - Detect on Image
@@ -46,16 +46,8 @@ Start the server
 
 ## Train your custom weights
 
-- To train your custom weights go to YoloV5 repository.
-
 - 🚀[YoloV5](https://github.com/ultralytics/yolov5)
 
 - 👀[Demo](https://firedetection.streamlitapp.com)
 
-- 📅[Dataset](https://www.kaggle.com/datasets/antrosafin/fire-dataset-in-yolo-format)
-
-- Download the trained custom weights and change the weights in the weights folder in my repository.
-## Author
-
-- [Antro Safin](https://github.com/AntroSafin)
 
